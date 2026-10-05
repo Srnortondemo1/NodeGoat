@@ -112,6 +112,8 @@ This project is bound by a [Code of Conduct](CODE_OF_CONDUCT.md).
 ## Contributors
 Here are the amazing [contributors](https://github.com/OWASP/NodeGoat/graphs/contributors) to the NodeGoat project.
 
+10/5/2026
+
 ## Supports
 - Thanks to JetBrains for providing licenses to fantastic [WebStorm IDE](https://www.jetbrains.com/webstorm/) to build this project.
 
